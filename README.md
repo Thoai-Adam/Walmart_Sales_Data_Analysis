@@ -1,0 +1,1 @@
+In this repository I will be do a follow along for Walmart Sales Data Analysis on Youtube while attempting to uncover things that the Youtuber didn't uncover. 
